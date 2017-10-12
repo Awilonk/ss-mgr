@@ -33,9 +33,9 @@ plugins:
                 flow: 200000000000
     email:
         use: true
-        username: 'jjkkty1@163.com'
-        password: 'jjkkty123'
-        host: 'smtp.163.com'
+        username: 'postmaster@sscat.top'
+        password: 'Luyaokun123'
+        host: 'smtp.mxhichina.com'
         port: 25
         
     webgui:
